@@ -13,7 +13,7 @@
 
 Comming soon
 
-#### Need Help? [Chech the Discord][wiki]
+#### Need Help? [Chech the Discord][discord]
 
 #### Like the project? Leave a ⭐ star on the repository!
 
