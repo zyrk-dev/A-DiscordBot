@@ -7,6 +7,8 @@
 
 <p align="center">Create discord bot without coding :D</p>
 
+![Screenshot 1](https://i.imgur.com/oOTAiHZ.png)
+
 ## Features
 
 Comming soon
