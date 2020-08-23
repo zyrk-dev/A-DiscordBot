@@ -3,7 +3,7 @@
 
 <em><h5 align="center">(a zyrk discord bot)</h5></em>
 
-[<p align="center"><img src="https://img.shields.io/travis/dscalzi/HeliosLauncher.svg?style=for-the-badge" alt="travis">](https://travis-ci.org/zyrk-dev/A-DiscordBot) [<img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/zyrk-dev/A-DiscordBot/releases)</p>
+[<p align="center"><img src="https://img.shields.io/travis/dscalzi/HeliosLauncher.svg?style=for-the-badge" alt="travis">](https://travis-ci.org/zyrk-dev/A-DiscordBot) [<img src="https://img.shields.io/github/downloads/zyrk-dev/A-DiscordBot/total.svg?style=for-the-badge" alt="downloads">](https://github.com/zyrk-dev/A-DiscordBot/releases)</p>
 
 <p align="center">Create discord bot without coding :D</p>
 
