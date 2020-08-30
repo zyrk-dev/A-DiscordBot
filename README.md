@@ -61,7 +61,7 @@ You can change basic modules like you want, juste have to put them **on** or **o
 
 You may use this software in your own project so long as the following conditions are met.
 
-* Credit is expressly given to the original authors (Johann Cournaille).
+* Credit is expressly given to the original authors (Johann C).
   * Credit the authors and provide a link to the original source in any publications or download pages.
 * The source code remain **public** as a fork of this repository.
 
